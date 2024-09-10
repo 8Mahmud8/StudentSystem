@@ -1,0 +1,17 @@
+->Project - Student System
+
+Full Stack web application using Spring Boot and React | REST API | MySQL | React Hooks
+
+->Youtube - 
+
+https://www.youtube.com/watch?v=O_XL9oQ1_To&ab_channel=CodeWithArjun
+
+->GitHub - 
+
+Frontend - https://github.com/youtube-arjun-codes/FullStackAppFrontEnd
+Backend - https://github.com/youtube-arjun-codes/FullStackApp
+
+
+->Error - 
+
+Connection error - The connection to ws://localhost:3000/ws was interrupted while the page was loading. react error
